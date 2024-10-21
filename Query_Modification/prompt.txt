@@ -1,0 +1,11 @@
+Modify the input text to be clear, concise, and optimized for maximum accuracy and relevance when used as a prompt for generative models. Ensure the following:
+
+Clarity and Focus: The reformulated prompt should clearly communicate the core task or question without ambiguity.
+Context: Include any necessary context to help the model understand the desired output, but avoid overloading with unnecessary information.
+Precision: Prioritize specific keywords and technical terms relevant to the model’s capabilities, reducing generalities.
+Desired Output: If the input text indicates a particular style, format, or type of output (e.g., list, paragraph, detailed explanation), make sure the modified prompt explicitly requests this.
+Avoid Bias: Remove any elements of the input that might introduce unintended bias into the output.
+Coherence: Ensure that the modified prompt is structured logically, facilitating the model’s understanding of the task.
+Example Input Text: 'Generate a report about recent advances in AI in the healthcare sector, focusing on patient diagnosis support tools.'
+
+Expected Output Text: 'Write a detailed report on the latest AI advancements in healthcare, with a specific focus on tools that support patient diagnosis. Highlight key innovations, their impact on accuracy, and any real-world applications.'
