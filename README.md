@@ -3,6 +3,8 @@
 
 ## Concept Overview
 
+![Introduction Image](pipeline.png)
+
 ### Step 1: Building Independent Open-Domain QnA Systems
 
 We'll start by identifying a suitable QnA dataset. The dataset can include questions with or without contextual information.
@@ -20,3 +22,4 @@ We'll experiment with different combinations of these three systems to evaluate 
 ### Step 3: Cross-Source Reranking (We expect this to perform best)
 
 Finally, we'll train a reranker model that will analyze the outputs from these systems and select the best response, optimizing the overall accuracy and relevance of the answers provided.
+
