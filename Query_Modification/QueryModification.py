@@ -1,14 +1,20 @@
+import json
 import pandas as pd
 import google.generativeai as genai
 
-with open('api.key', 'r') as file:
-    api_key = file.read().strip()
-
-# Initialize the API key
-genai.configure(api_key=api_key)
-
 # Function to process text input with Gemini model
 def modified_query(input_text):
+
+    with open('config.json', 'r') as file:
+        config = json.load(file)
+
+    gemini_key = config.get("GEMINI")
+
+    # Initialize the API key
+    genai.configure(api_key=gemini_key)
+
+    print(gemini_key)
+
     # Load the prompt from file
     with open("Query_Modification/prompt.txt", 'r') as file:
         prompt_maximum_weight_recommendation = file.read()
@@ -54,4 +60,3 @@ def modified_query(input_text):
     # Call the generative model for text input
     result = model.generate_content([full_prompt], safety_settings=safe)
     return result.text
-
