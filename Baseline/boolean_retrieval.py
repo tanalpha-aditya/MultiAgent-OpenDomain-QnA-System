@@ -1,6 +1,8 @@
 from collections import defaultdict
 import re
 import heapq
+import joblib
+import os
 
 def preprocess_text(text):
     """
@@ -24,6 +26,20 @@ def create_inverted_index(wikipedia_dict):
         for token in tokens:
             inverted_index[token].add(doc_id)
     return inverted_index
+
+def save_inverted_index(inverted_index, filepath="Baseline/inverted_index.joblib"):
+    """
+    Save the inverted index to a file using joblib.
+    """
+    joblib.dump(inverted_index, filepath)
+
+def load_inverted_index(filepath="Baseline/inverted_index.joblib"):
+    """
+    Load the inverted index from a file using joblib.
+    """
+    if os.path.exists(filepath):
+        return joblib.load(filepath)
+    return None
 
 def boolean_retrieval(queries_dict, inverted_index, wikipedia_dict, top_n=100):
     """
@@ -70,6 +86,47 @@ def main_boolean_retrieval(wikipedia_dict, queries_dict):
     top_docs = boolean_retrieval(queries_dict, inverted_index, wikipedia_dict)
     
     return top_docs
+
+def retrieve_single_query(query, wikipedia_dict, top_n=100, inverted_index_path="Baseline/inverted_index.joblib"):
+    """
+    Retrieve documents for a single query using the inverted index.
+    If the inverted index is not found, it will be created and saved.
+
+    Args:
+        query (str): The query text.
+        wikipedia_dict (dict): The original document dictionary.
+        top_n (int): The number of top documents to retrieve.
+        inverted_index_path (str): Path to the saved inverted index file.
+
+    Returns:
+        list: A list of top document IDs matching the query.
+    """
+    # Load or create the inverted index
+    inverted_index = load_inverted_index(inverted_index_path)
+    if inverted_index is None:
+        print("Inverted index not found. Creating one...")
+        inverted_index = create_inverted_index(wikipedia_dict)
+        save_inverted_index(inverted_index, inverted_index_path)
+
+    # Preprocess the query
+    query_tokens = preprocess_text(query)
+    
+    # Collect relevant documents
+    relevant_docs = set()
+    for token in query_tokens:
+        if token in inverted_index:
+            relevant_docs.update(inverted_index[token])
+    
+    # Rank documents by frequency of terms
+    doc_scores = []
+    for doc_id in relevant_docs:
+        doc_text = preprocess_text(wikipedia_dict[doc_id])
+        score = sum(doc_text.count(token) for token in query_tokens)
+        doc_scores.append((score, doc_id))
+    
+    # Get the top `top_n` documents based on the score
+    top_docs = heapq.nlargest(top_n, doc_scores)
+    return [doc_id for _, doc_id in top_docs]
 
 # Example usage:
 # Assuming `wikipedia_dict` and `queries_dict` are already prepared

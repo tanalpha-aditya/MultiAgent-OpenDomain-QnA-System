@@ -1,10 +1,25 @@
 from data_processor import process_json_data, process_queries, merge_documents
-from boolean_retrieval import main_boolean_retrieval
+from boolean_retrieval import main_boolean_retrieval, retrieve_single_query
 import json   
 
+def boolean_retrieval(query):
+    # Load the JSON files
+    with open("Datasets/mini_wiki_collection.json", "r") as file1:  # Replace with the actual path to your file
+        wikipedia_data = json.load(file1)
+
+    # Process the JSON files
+    wikipedia_dict = process_json_data(wikipedia_data)
+    # Print the processed data
+
+    top_results = retrieve_single_query(query, wikipedia_dict, top_n=100)
+    print( top_results)
+
+    return top_results
 
 def main():
     # Load the JSON files
+    # boolean_retrieval("In the United States, why are positions like Attorney General, Secretary of State, etc. appointed by the president at the federal level but elected by the people at the state level? Had it ever been proposed to do this differently?")
+    # return
     with open("../Datasets/mini_wiki_collection.json", "r") as file1:  # Replace with the actual path to your file
         wikipedia_data = json.load(file1)
 
@@ -36,5 +51,5 @@ def main():
         json.dump(top_results, output_file, indent=4)
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
