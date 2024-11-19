@@ -1,0 +1,242 @@
+[
+    {
+        "file_name": "open_source_1_2_top_100_response.json",
+        "average_similarity": 0.48834372346289456,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_1_top_100_combined_response.json",
+        "average_similarity": 0.49115334868431093,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_1_top_100_combined_both_response.json",
+        "average_similarity": 0.48855370566248896,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_2_top_100_modified_response.json",
+        "average_similarity": 0.4442148333601654,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_1_top_100_modified_response.json",
+        "average_similarity": 0.2613960338640027,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_2_top_100_modified_response.json",
+        "average_similarity": 0.4460246315971017,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_1_top_100_response.json",
+        "average_similarity": 0.188943603875814,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_2_top_100_response.json",
+        "average_similarity": 0.17058551126974636,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_1_top_100_response.json",
+        "average_similarity": 0.46118290760554376,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_0_top_100_modified_response.json",
+        "average_similarity": 0.14597779714036732,
+        "total_entries": 100
+    },
+    {
+        "file_name": "ZeroShot_response.json",
+        "average_similarity": 0.4222382224351168,
+        "total_entries": 100
+    },
+    {
+        "file_name": "open_source_1_0_top_100_response.json",
+        "average_similarity": 0.4962937213201076,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_2_top_100_combined_response.json",
+        "average_similarity": 0.4935813271533698,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_0_top_100_response.json",
+        "average_similarity": 0.4398527488205582,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_1_top_100_combined_modified_response.json",
+        "average_similarity": 0.4769964201748371,
+        "total_entries": 100
+    },
+    {
+        "file_name": "LlamaAgent_response.json",
+        "average_similarity": 0.4514929262176156,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_2_top_100_response.json",
+        "average_similarity": 0.4513788136746734,
+        "total_entries": 100
+    },
+    {
+        "file_name": "reranked_best_answers_1_1.json",
+        "average_similarity": 0.45007437605410816,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_2_top_100_modified_response.json",
+        "average_similarity": 0.2628050498387893,
+        "total_entries": 100
+    },
+    {
+        "file_name": "WikiAgent_response_modified.json",
+        "average_similarity": 0.433661468885839,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_0_top_100_modified_response.json",
+        "average_similarity": 0.31510484404861927,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_0_top_100_combined_both_response.json",
+        "average_similarity": 0.48416713838465514,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_2_top_100_response.json",
+        "average_similarity": 0.47062883962877095,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_1_top_100_modified_response.json",
+        "average_similarity": 0.13761849813628943,
+        "total_entries": 100
+    },
+    {
+        "file_name": "WikiAgent_response.json",
+        "average_similarity": 0.43238587010651824,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_1_top_100_response.json",
+        "average_similarity": 0.31897937443805857,
+        "total_entries": 100
+    },
+    {
+        "file_name": "LlamaAgent_response_modified.json",
+        "average_similarity": 0.4550219791661948,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_2_top_100_modified_response.json",
+        "average_similarity": 0.141583321695216,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_2_top_100_combined_both_response.json",
+        "average_similarity": 0.4839958304446191,
+        "total_entries": 100
+    },
+    {
+        "file_name": "reranked_best_answers_1_0.json",
+        "average_similarity": 0.4527247336693108,
+        "total_entries": 100
+    },
+    {
+        "file_name": "reranked_best_answers_1_2.json",
+        "average_similarity": 0.45601704543456434,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_0_top_100_modified_response.json",
+        "average_similarity": 0.44426156993955374,
+        "total_entries": 100
+    },
+    {
+        "file_name": "open_source_1_0_top_100_modified_response.json",
+        "average_similarity": 0.483226365596056,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_0_top_100_response.json",
+        "average_similarity": 0.4754675720818341,
+        "total_entries": 100
+    },
+    {
+        "file_name": "open_source_1_1_top_100_modified_response.json",
+        "average_similarity": 0.4811013076454401,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_0_top_100_response.json",
+        "average_similarity": 0.3638769264705479,
+        "total_entries": 100
+    },
+    {
+        "file_name": "open_source_1_1_top_100_response.json",
+        "average_similarity": 0.4821538252104074,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_0_top_100_modified_response.json",
+        "average_similarity": 0.461971415001899,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_0_top_100_combined_response.json",
+        "average_similarity": 0.4808683952409774,
+        "total_entries": 100
+    },
+    {
+        "file_name": "ZeroShot_response_modified.json",
+        "average_similarity": 0.4103181825950742,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_2_top_100_response.json",
+        "average_similarity": 0.2860025029047392,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_1_top_100_response.json",
+        "average_similarity": 0.4592609011568129,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_1_top_100_modified_response.json",
+        "average_similarity": 0.4585254927165806,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_0_top_100_combined_modified_response.json",
+        "average_similarity": 0.4657879133336246,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_1_top_100_modified_response.json",
+        "average_similarity": 0.44346355557441713,
+        "total_entries": 100
+    },
+    {
+        "file_name": "open_source_1_2_top_100_modified_response.json",
+        "average_similarity": 0.47868713203817603,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_0_top_100_response.json",
+        "average_similarity": 0.190750658538891,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_2_top_100_combined_modified_response.json",
+        "average_similarity": 0.47352376496419313,
+        "total_entries": 100
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "file_name": "open_source_1_2_top_100_response.json",
+        "average_rouge_l": 0.21419799980688484,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_1_top_100_combined_response.json",
+        "average_rouge_l": 0.21377789501407432,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_1_top_100_combined_both_response.json",
+        "average_rouge_l": 0.21216030825157836,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_2_top_100_modified_response.json",
+        "average_rouge_l": 0.1857521116259974,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_1_top_100_modified_response.json",
+        "average_rouge_l": 0.09161653914243922,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_2_top_100_modified_response.json",
+        "average_rouge_l": 0.19420565717405064,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_1_top_100_response.json",
+        "average_rouge_l": 0.0708214774692687,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_2_top_100_response.json",
+        "average_rouge_l": 0.06882318090440934,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_1_top_100_response.json",
+        "average_rouge_l": 0.20516221538019422,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_0_top_100_modified_response.json",
+        "average_rouge_l": 0.04276519698645882,
+        "total_entries": 100
+    },
+    {
+        "file_name": "ZeroShot_response.json",
+        "average_rouge_l": 0.0867158237097613,
+        "total_entries": 100
+    },
+    {
+        "file_name": "open_source_1_0_top_100_response.json",
+        "average_rouge_l": 0.2241261136481983,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_2_top_100_combined_response.json",
+        "average_rouge_l": 0.21484419145975814,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_0_top_100_response.json",
+        "average_rouge_l": 0.19914244036083895,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_1_top_100_combined_modified_response.json",
+        "average_rouge_l": 0.203821197539663,
+        "total_entries": 100
+    },
+    {
+        "file_name": "LlamaAgent_response.json",
+        "average_rouge_l": 0.16987457611699264,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_2_top_100_response.json",
+        "average_rouge_l": 0.20121735875095048,
+        "total_entries": 100
+    },
+    {
+        "file_name": "reranked_best_answers_1_1.json",
+        "average_rouge_l": 0.1262578879275516,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_2_top_100_modified_response.json",
+        "average_rouge_l": 0.08199020671641513,
+        "total_entries": 100
+    },
+    {
+        "file_name": "WikiAgent_response_modified.json",
+        "average_rouge_l": 0.13159159229587886,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_0_top_100_modified_response.json",
+        "average_rouge_l": 0.0950591034014694,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_0_top_100_combined_both_response.json",
+        "average_rouge_l": 0.21622496612120973,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_2_top_100_response.json",
+        "average_rouge_l": 0.20585205355044908,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_1_top_100_modified_response.json",
+        "average_rouge_l": 0.040896102313016325,
+        "total_entries": 100
+    },
+    {
+        "file_name": "WikiAgent_response.json",
+        "average_rouge_l": 0.12787792203028522,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_1_top_100_response.json",
+        "average_rouge_l": 0.10946083658487227,
+        "total_entries": 100
+    },
+    {
+        "file_name": "LlamaAgent_response_modified.json",
+        "average_rouge_l": 0.1551447986316194,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_2_top_100_modified_response.json",
+        "average_rouge_l": 0.04090492762618947,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_2_top_100_combined_both_response.json",
+        "average_rouge_l": 0.21495272131456372,
+        "total_entries": 100
+    },
+    {
+        "file_name": "reranked_best_answers_1_0.json",
+        "average_rouge_l": 0.12545520788185688,
+        "total_entries": 100
+    },
+    {
+        "file_name": "reranked_best_answers_1_2.json",
+        "average_rouge_l": 0.12643353602324636,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_0_top_100_modified_response.json",
+        "average_rouge_l": 0.18455278967723632,
+        "total_entries": 100
+    },
+    {
+        "file_name": "open_source_1_0_top_100_modified_response.json",
+        "average_rouge_l": 0.21212482184976839,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_0_top_100_response.json",
+        "average_rouge_l": 0.2117147296311613,
+        "total_entries": 100
+    },
+    {
+        "file_name": "open_source_1_1_top_100_modified_response.json",
+        "average_rouge_l": 0.20519206865482686,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_0_top_100_response.json",
+        "average_rouge_l": 0.11584016668292799,
+        "total_entries": 100
+    },
+    {
+        "file_name": "open_source_1_1_top_100_response.json",
+        "average_rouge_l": 0.215075697095097,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_0_top_100_modified_response.json",
+        "average_rouge_l": 0.19568307383117212,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_0_top_100_combined_response.json",
+        "average_rouge_l": 0.21187013306320546,
+        "total_entries": 100
+    },
+    {
+        "file_name": "ZeroShot_response_modified.json",
+        "average_rouge_l": 0.09750324715380103,
+        "total_entries": 100
+    },
+    {
+        "file_name": "vision_1_2_top_100_response.json",
+        "average_rouge_l": 0.09851043357376536,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_1_top_100_response.json",
+        "average_rouge_l": 0.19845314405944214,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf-idf_1_1_top_100_modified_response.json",
+        "average_rouge_l": 0.18931535835116517,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_0_top_100_combined_modified_response.json",
+        "average_rouge_l": 0.19692182089570665,
+        "total_entries": 100
+    },
+    {
+        "file_name": "bm25_1_1_top_100_modified_response.json",
+        "average_rouge_l": 0.18663106340245458,
+        "total_entries": 100
+    },
+    {
+        "file_name": "open_source_1_2_top_100_modified_response.json",
+        "average_rouge_l": 0.2018939571287682,
+        "total_entries": 100
+    },
+    {
+        "file_name": "BOW_1_0_top_100_response.json",
+        "average_rouge_l": 0.07126359234049588,
+        "total_entries": 100
+    },
+    {
+        "file_name": "tf_idf_bm25_open_1_2_top_100_combined_modified_response.json",
+        "average_rouge_l": 0.20373065908993845,
+        "total_entries": 100
+    }
+]
