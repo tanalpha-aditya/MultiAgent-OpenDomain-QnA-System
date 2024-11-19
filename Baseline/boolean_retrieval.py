@@ -27,13 +27,13 @@ def create_inverted_index(wikipedia_dict):
             inverted_index[token].add(doc_id)
     return inverted_index
 
-def save_inverted_index(inverted_index, filepath="Baseline/inverted_index.joblib"):
+def save_inverted_index(inverted_index, filepath="Baseline/inverted_index.pkl"):
     """
     Save the inverted index to a file using joblib.
     """
     joblib.dump(inverted_index, filepath)
 
-def load_inverted_index(filepath="Baseline/inverted_index.joblib"):
+def load_inverted_index(filepath="Baseline/inverted_index.pkl"):
     """
     Load the inverted index from a file using joblib.
     """
@@ -87,7 +87,7 @@ def main_boolean_retrieval(wikipedia_dict, queries_dict):
     
     return top_docs
 
-def retrieve_single_query(query, wikipedia_dict, top_n=100, inverted_index_path="Baseline/inverted_index.joblib"):
+def retrieve_single_query(query, wikipedia_dict, top_n=100, inverted_index_path="Baseline/inverted_index.pkl"):
     """
     Retrieve documents for a single query using the inverted index.
     If the inverted index is not found, it will be created and saved.

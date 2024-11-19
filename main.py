@@ -4,9 +4,9 @@ from retrieval import (
     retrieve_with_dense_methods,
     combine_retrieval_results
 )
-from agents import execute_agent_searches
+from Agents import execute_agent_searches
 from answer_generation import generate_answers
-from reranking import rerank_answers
+from Ranking.RRF.RRF_implementation import reciprocal_rank_fusion
 
 class QAPipeline:
     def __init__(self):
