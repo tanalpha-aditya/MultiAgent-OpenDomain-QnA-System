@@ -25,7 +25,7 @@ def generate_article_from_query(query, config_file='config.json', model="meta-ll
     client = Together(api_key=together_ai_key)
 
     # Create the prompt
-    prompt = f"""Using the query provided, generate a well-researched and informative article. The article should be detailed, accurate, and structured to cover various aspects of the topic in an engaging way. Focus on presenting key facts, historical context, notable insights, and any relevant background information that adds value to the reader’s understanding. Ensure the tone is neutral and informative. Here’s the query:
+    prompt = f"""Using the query provided, generate a well-researched and informative short article. The article should be detailed, accurate, and structured to cover various aspects of the topic in an engaging way. Focus on presenting key facts, historical context, notable insights, and any relevant background information that adds value to the reader’s understanding. Ensure the tone is neutral and informative. Keep the article short. Here’s the query:
 
     Query: {query}"""
 

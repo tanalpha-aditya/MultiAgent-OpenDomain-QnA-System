@@ -103,20 +103,46 @@ Summary:
         
     return formatted
 
-def get_wiki_data(query: str, results_limit: int = 3) -> List[WikiSearchResult]:
+def get_wiki_data(query: str, results_limit: int = 3) -> List[str]:
     """
-    Get Wikipedia data for a given query
-    
+    Get Wikipedia data for a given query. If the search returns no results, 
+    try using n-grams of decreasing size until a result is found or all attempts fail.
+
     Args:
         query: Search query string
         results_limit: Maximum number of results to return
-        
+
     Returns:
-        List of WikiSearchResult objects
+        List of summaries from Wikipedia search results, or None if no results are found.
     """
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     client = initialize_wikipedia_client()
-    return search_wikipedia(client, query, results_limit)
+
+    def get_search_result(query):
+        """Helper function to get search result summary."""
+        result = search_wikipedia(client, query, results_limit)
+        if result:
+            return result[0].summary  # Return the first result's summary if available
+        return None
+
+    # Check the search results with the full query
+    summary = get_search_result(query)
+    if summary:
+        return [summary]
+
+    # If no result, try reducing the query by n-grams
+    n = len(query.split())  # Starting with the number of words in the query
+    for i in range(n, 1, -1):  # Try from n-grams down to 2-grams
+        # Generate n-grams for the current iteration
+        n_grams_query = ' '.join(query.split()[:i])
+        logging.info(f"Trying n-gram query: {n_grams_query}")
+        summary = get_search_result(n_grams_query)
+        if summary:
+            return [summary]
+
+    # If no results found after all n-gram reductions, return None
+    logging.info("No results found for any query variations.")
+    return None
 
 # # Example usage
 # if __name__ == "__main__":

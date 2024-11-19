@@ -1,0 +1,602 @@
+[
+    {
+        "query_id": "1996292107460275608",
+        "question": "where was the movie a walk among the tombstones filmed",
+        "best_model": "ZeroShot_response",
+        "best_answer": "The best_answer is:\n\n\"The movie \\\"A Walk Among the Tombstones\\\" (2014) was filmed in various locations in New York City and its surrounding areas. Some of the specific locations include:\n\n* Brooklyn Heights, Brooklyn: Many of the film's exterior scenes were shot in Brooklyn Heights, including the iconic views of the Manhattan skyline.\n* Dumbo, Brooklyn: The film's opening scene, where Matt Scudder (Liam Neeson) is walking through the streets, was shot in Dumbo.\n* Williamsburg, Brooklyn: Some scenes were also shot in Williamsburg, including the scene where Scudder meets with Kenny (Dan Stevens).\n* Manhattan: Some interior scenes were shot in Manhattan, including the scenes at the police station and the hotel where Scudder stays.\n* Long Island: Some scenes were also shot on Long Island, including the scenes at the beach and the woods where Scudder goes to investigate.\n\nIt's worth noting that the film's production team also built sets and used soundstages to capture some of the scenes, so not all of the filming took place on location.\""
+    },
+    {
+        "query_id": "5ab58ee6554299488d4d99d6",
+        "question": "What is the birthdate of this American actor, director, and producer, who starred in Not Another B Movie?",
+        "best_model": "\"tf_idf_bm25_open_1_0_top_100_combined_response\"",
+        "best_answer": "\"July 15, 1929\""
+    },
+    {
+        "query_id": "5ab5ec0a5542997d4ad1f250",
+        "question": "Approximately how many locations is BJ's Wholesale Club operating in, as of early 2008?",
+        "best_model": "\"ZeroShot_response\"",
+        "best_answer": "According to the BJ's Wholesale Club's annual report for 2007, as of January 26, 2008, the company was operating 185 warehouse clubs in 15 states."
+    },
+    {
+        "query_id": "5a87ab905542996e4f3088c1",
+        "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "The best_answer is:\n\nThe Lewiston Maineiacs, a former Quebec Major Junior Hockey League team, played their home games at the Androscoggin Bank Colisée in Lewiston, Maine. The arena has a seating capacity of approximately 3,625 people."
+    },
+    {
+        "query_id": "5ae69e3f5542996d980e7c61",
+        "question": "At which university did the notable psychoanalyst associated with the University of Chicago serve most of his career as a professor of psychiatry?",
+        "best_model": "\"LlamaAgent\"",
+        "best_answer": "Franz Alexander primarily served as a professor of psychiatry at the University of Chicago."
+    },
+    {
+        "query_id": "-8518155586522600846",
+        "question": "who are you in assassin's creed 4",
+        "best_model": "LlamaAgent",
+        "best_answer": "\"I am Edward Kenway, a young pirate and assassin, son of a British privateer, and the protagonist of Assassin's Creed 4: Black Flag.\""
+    },
+    {
+        "query_id": "5ab7f0015542992aa3b8c88b",
+        "question": "Who did the Star and Dagger bass player marry?",
+        "best_model": "LlamaAgent",
+        "best_answer": "\"Simon Denbigh, the Star and Dagger bass player, married a woman named Fiona.\""
+    },
+    {
+        "query_id": "3ukm5n",
+        "question": "How do you get job experience when you can't get a job with no experience?",
+        "best_model": "ZeroShot_response.json",
+        "best_answer": "The classic catch-22! It's a common dilemma many job seekers face. Here are some ways to gain job experience when you can't get a job with no experience:\n\n1. **Volunteer**: Look for volunteer opportunities in your desired field. This will not only give you experience but also demonstrate your commitment and passion to potential employers.\n\n2. **Internships**: Apply for internships, even if they're unpaid. This will give you a taste of the work environment and help you build your network.\n\n3. **Freelance or part-time work**: Consider freelancing or taking on part-time jobs to gain experience. This could be in a related field or a different industry, but it will still help you develop skills.\n\n4. **Create your own project**: Develop a personal project or start a small business to demonstrate your skills and experience. This could be a blog, a YouTube channel, or a small online business.\n\n5. **Ask for a trial or test project**: Reach out to companies or professionals in your desired field and ask if they'd be willing to give you a trial or test project to demonstrate your skills.\n\n6. **Take online courses or certifications**: Enroll in online courses or certification programs to gain new skills and knowledge. This will not only enhance your skills but also show potential employers that you're proactive and committed to learning.\n\n7. **Network and make connections**: Attend industry events, join online communities, and connect with professionals in your desired field. These connections can lead to job opportunities, mentorship, or valuable advice.\n\n8. **Create a portfolio**: Build a portfolio that showcases your skills, projects, and achievements. This can be a website, a blog, or a document that you can share with potential employers.\n\n9. **Consider a job shadowing or mentorship**: Reach out to professionals in your desired field and ask if they'd be willing to mentor or job shadow you for a day. This will give you valuable insights and experience.\n\n10. **Be creative**: Think outside the box and come up with innovative ways to gain experience. For example, you could create a mock project or scenario to demonstrate your skills.\n\nRemember, gaining experience takes time and effort. Focus on building your skills, network, and portfolio, and you'll increase your chances of landing a job with experience."
+    },
+    {
+        "query_id": "1442521968114516256",
+        "question": "when did season 4 of glee come out",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"Season 4 of Glee premiered on September 13, 2012.\""
+    },
+    {
+        "query_id": "5a76f5b155429972597f1400",
+        "question": "What American composer born in 1937 pioneered minimal music?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "Philip Glass, an American composer born in 1937, is widely regarded as one of the most influential musicians of the late 20th century, pioneering the style of minimal music."
+    },
+    {
+        "query_id": "1wk311",
+        "question": "Why do my eyes turn bloodshot red after smoking cannabis ?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "The best_answer is:\n\nThe increased blood flow to the eyes caused by the vasodilation effect of THC in cannabis, leading to the appearance of bloodshot red eyes."
+    },
+    {
+        "query_id": "5abb7d8b5542996cc5e4a006",
+        "question": "Dan Balan co-wrote the song from what T.I. album?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"Dan Balan co-wrote the song \\\"Live Your Life\\\" from T.I.'s album \\\"Paper Trail\\\".\""
+    },
+    {
+        "query_id": "5a7bd25a554299294a54ab13",
+        "question": "Which director lived longer, Lowell Sherman or Jonathan Kaplan?",
+        "best_model": "\"LlamaAgent\"",
+        "best_answer": "Jonathan Kaplan lived longer, celebrating his 76th birthday in January 2023, while Lowell Sherman passed away at the age of 49 in 1934."
+    },
+    {
+        "query_id": "-8587350848837910884",
+        "question": "who declared war on the united states four days after pearl harbor",
+        "best_model": "ZeroShot_response",
+        "best_answer": "On December 11, 1941, four days after the attack on Pearl Harbor, Germany and Italy declared war on the United States. This was in response to the United States declaring war on Japan on December 8, 1941, following the surprise attack on Pearl Harbor."
+    },
+    {
+        "query_id": "5ac3b04f55429939154138b7",
+        "question": "Which railway is a part of Summerseat and also runs between Heywood and Rawtenstall?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"The East Lancashire Railway, which runs for 12 miles from Heywood-Rawtenstall.\""
+    },
+    {
+        "query_id": "5abaf0ec5542996cc5e49f22",
+        "question": "Where is the American honky tonk country band, whose first studio album was Honky Tonks and Cheap Motels, based?",
+        "best_model": "tf-idf_1_0_top_100_modified_response",
+        "best_answer": "\"The American honky tonk country band whose debut album was \\\"Honky Tonks and Cheap Motels\\\" is from Royal Oak, MI.\""
+    },
+    {
+        "query_id": "-3645082395283907461",
+        "question": "when is i can only imagine coming out",
+        "best_model": "ZeroShot_response",
+        "best_answer": "According to the song's lead vocalist, Bart Millard, the song was inspired by his father's death from cancer in 1991, when Bart was just 19 years old. The song was written from the perspective of a person who has died and is now in heaven, imagining what it will be like to see his loved ones again."
+    },
+    {
+        "query_id": "8816667823188176068",
+        "question": "what states do not allow daylight savings time",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "There are two states in the United States that do not observe daylight saving time (DST):\n\n\n1. Hawaii: Hawaii is exempt from DST because it is located near the equator and has a relatively consistent amount of daylight throughout the year.\n2. Arizona (except for the Navajo Nation): Arizona does not observe DST, except for the Navajo Nation, which does observe DST. The state of Arizona opted out of DST in 1968, citing the hot desert climate and the fact that the state's energy consumption patterns are not significantly affected by the time change.\n\n\nAdditionally, some territories and insular areas of the United States also do not observe DST:\n\n\n* American Samoa\n* Guam\n* Northern Mariana Islands\n* Puerto Rico\n* United States Virgin Islands\n\n\nIt's worth noting that some Native American reservations within states that do observe DST may also opt out of observing DST, but this can vary depending on the specific reservation and its location."
+    },
+    {
+        "query_id": "5ac1a4745542991316484b82",
+        "question": "Para Hills West, South Australia lies within a city with what estimated population?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "According to the Australian Bureau of Statistics (ABS), the city of Salisbury, which includes Para Hills West, South Australia, has an estimated population of around 75,000 people as of 2020."
+    },
+    {
+        "query_id": "-7583855073136179893",
+        "question": "when did david akers kick the 63 yard field goal",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"David Akers kicked a 63-yard field goal with the San Francisco 49ers.\""
+    },
+    {
+        "query_id": "5a770eb65542994aec3b71d4",
+        "question": "What is the name of the 1999 film directed by Roman Polanski and starring his wife Emmanuelle Seigner that was a world-wide success but critically and commercially unsuccessful in North America?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"The 1999 film directed by Roman Polanski and starring his wife Emmanuelle Seigner that was a world-wide success but critically and commercially unsuccessful in North America is \\\"The Ninth Gate\\\".\""
+    },
+    {
+        "query_id": "1w605g",
+        "question": "What do Germans think of Adolf Hitler?",
+        "best_model": "WikiAgent",
+        "best_answer": "\"In Germany, Adolf Hitler is widely regarded as a criminal and a symbol of the atrocities committed during World War II and the Holocaust. The vast majority of Germans today reject Hitler's ideology and policies, and most people view him as a figure of shame and guilt.\""
+    },
+    {
+        "query_id": "5a8f23555542997ba9cb31e3",
+        "question": "Where was the band who released Feeding the Wolves formed?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"The band who released Feeding the Wolves was formed in Tennessee.\""
+    },
+    {
+        "query_id": "yzrnp",
+        "question": "My parent's mentality: \"ObamaCare takes my money and gives it to welfare ridin', foodstamp collectin' dead beats who don't work. I hate it!\" Are they missing the point or is this a fair view?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "\"This view is a misinformed and unfair representation of the Affordable Care Act. The law provides health insurance coverage to millions of Americans, including those who are working but struggling to afford healthcare, and also helps to reduce the cost of healthcare for many others.\""
+    },
+    {
+        "query_id": "-4550963235437934590",
+        "question": "who plays the lion in the movie zookeeper",
+        "best_model": "LlamaAgent",
+        "best_answer": "\"Kevin James provides the voice of the lovable and charismatic lion, Joe, in the 2011 comedy film \\\"Zookeeper\\\".\""
+    },
+    {
+        "query_id": "3nrk23",
+        "question": "Why couldn't Edward Snowden return to America, where he would need to face a proper and fair trial, and appeal his case until it reaches the Supreme Court?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "Edward Snowden couldn't return to the United States for several reasons:\n\n1. **Extradition**: The US government has been seeking Snowden's extradition from Russia, but Russia has refused to hand him over. Russia has granted him asylum and has not extradited him to the US.\n2. **Asylum**: Snowden was granted asylum in Russia, which means he has been granted protection from persecution and prosecution. Russia has not revoked his asylum status, and he is not at risk of being deported or extradited.\n3. **Fear of prosecution**: Snowden faces charges of espionage and theft of government property, which carry a maximum sentence of life in prison. He believes that if he returns to the US, he will not receive a fair trial and will be subjected to harsh treatment.\n4. **Political motivations**: Snowden's leaks have been highly controversial, and some argue that his actions were treasonous. The US government has been critical of his actions, and there is a strong political desire to prosecute him.\n5. **Lack of diplomatic relations**: The US and Russia have strained diplomatic relations, which makes it difficult for the US to negotiate Snowden's return. Russia has not been willing to compromise on Snowden's status, and the US has not been able to persuade Russia to extradite him.\n\nIn summary, Snowden cannot return to the US because of Russia's refusal to extradite him, his asylum status, the fear of political persecution, and the lack of diplomatic relations between the US and Russia."
+    },
+    {
+        "query_id": "-7652145090230313122",
+        "question": "who plays the queen in victoria and abdul",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "Judi Dench"
+    },
+    {
+        "query_id": "-7924663090486742985",
+        "question": "american horror story freak show girl kidnapped by clown",
+        "best_model": "\"LlamaAgent\"",
+        "best_answer": "Twisty, a former serial killer, kidnapped the protagonist Dandy Mott's sister, among other young girls, as a cry for attention and validation, donning a grotesque clown costume to commit his heinous crimes."
+    },
+    {
+        "query_id": "-2454338314238497026",
+        "question": "what is the name of son of lord krishna",
+        "best_model": "ZeroShot",
+        "best_answer": "\"Samba was the son of Lord Krishna and Jambavati, one of the 16,000 wives of Krishna.\""
+    },
+    {
+        "query_id": "-8899928590244132355",
+        "question": "what was the purpose of a revival meeting during the second great awakening",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "During the Second Great Awakening (1790-1840), revival meetings played a significant role in spreading Christianity and promoting spiritual renewal. The primary purpose of a revival meeting during this period was to:\n\n1. **Convert sinners**: Revival meetings aimed to bring people to a personal relationship with Jesus Christ, leading to salvation and spiritual rebirth. Preachers and evangelists would use emotional appeals, storytelling, and persuasive rhetoric to convince people of their need for salvation.\n\n2. **Renew and revitalize believers**: Revival meetings also sought to revitalize the faith of existing Christians, encouraging them to deepen their commitment to God and live more righteous lives. This was particularly important in a time when many churches were experiencing decline and spiritual apathy.\n\n3. **Promote moral reform**: Revival meetings often emphasized the importance of moral reform, encouraging people to live according to biblical standards and reject sinful behaviors. This included issues like temperance, abolition, and social justice.\n\n4. **Build community**: Revival meetings provided a sense of community and belonging among believers. They brought people together, fostering a sense of unity and shared purpose.\n\n5. **Challenge social norms**: Revival meetings often challenged social norms and conventions, particularly those related to slavery, racism, and social inequality. Preachers and evangelists used their platforms to speak out against injustice and advocate for human rights.\n\nSome notable characteristics of revival meetings during the Second Great Awakening include:\n\n* **Emotional intensity**: Revival meetings were often marked by intense emotional experiences, such as crying, shouting, and falling to the ground. This emotional intensity was seen as a sign of the Holy Spirit's presence.\n\n* **Charismatic leadership**: Revival meetings were often led by charismatic preachers and evangelists who were known for their powerful oratory skills, emotional appeals, and ability to connect with their audiences.\n\n* **Mass conversions**: Revival meetings often resulted in large numbers of conversions, as people responded to the message of salvation and spiritual renewal.\n\nOverall, the purpose of a revival meeting during the Second Great Awakening was to bring people to a deeper understanding of God, promote spiritual renewal, and challenge social norms and conventions."
+    },
+    {
+        "query_id": "1dm4pz",
+        "question": "Why are there so many people (grown-ups) struggeling with depression?",
+        "best_model": "ZeroShot_response.json",
+        "best_answer": "What a complex and multifaceted question! There are many factors that contribute to the prevalence of depression among adults. Here are some possible reasons:\n\n1. **Changing societal values and expectations**: The rapid pace of technological advancements, globalization, and shifting societal norms can lead to feelings of disconnection, anxiety, and depression.\n\n2. **Increased stress and pressure**: The modern workplace, with its emphasis on productivity, competition, and long working hours, can be a significant source of stress, which can contribute to depression.\n\n3. **Lack of social connections and community**: The decline of traditional social structures, such as community organizations and neighborhood networks, can leave people feeling isolated and disconnected.\n\n4. **Mental health stigma**: The stigma surrounding mental health issues can prevent people from seeking help, leading to delayed diagnosis and treatment.\n\n5. **Genetic predisposition**: Depression can run in families, and genetic factors can play a role in an individual's susceptibility to depression.\n\n6. **Trauma and adverse childhood experiences**: Childhood trauma, abuse, or neglect can increase the risk of depression later in life.\n\n7. **Lack of purpose and meaning**: Feeling unfulfilled or without a sense of purpose can contribute to depression.\n\n8. **Sleep deprivation and lifestyle factors**: Poor sleep habits, lack of exercise, and unhealthy diet can all contribute to depression.\n\n9. **Mental health comorbidities**: Co-occurring mental health conditions, such as anxiety disorders, substance abuse, or personality disorders, can increase the risk of depression.\n\n10. **Demographic changes**: The increasing prevalence of depression among adults may be linked to demographic changes, such as the aging population, urbanization, and changes in family structures.\n\n11. **Lack of access to mental health resources**: Limited access to mental health services, including therapy and medication, can exacerbate depression.\n\n12. **Cultural and societal expectations around emotions**: The pressure to conform to societal norms around emotions, such as suppressing emotions or hiding vulnerability, can contribute to depression.\n\n13. **Technology and social media**: The constant stream of information and social media can lead to feelings of FOMO (fear of missing out), anxiety, and depression.\n\n14. **Economic uncertainty and financial stress**: Economic instability, job insecurity, and financial stress can contribute to depression.\n\n15. **Lack of self-care and self-compassion**: Neglecting one's own physical and emotional well-being, as well as a lack of self-compassion, can increase the risk of depression.\n\nIt's essential to recognize that depression is a complex condition that can be influenced by a combination of these factors. By acknowledging the various contributing factors, we can work towards creating a more supportive and understanding environment for those struggling with depression."
+    },
+    {
+        "query_id": "5a8a06c35542992d82986e57",
+        "question": "What was the name of Scottish singer-songwriter James Aaron Diamond's first solo album that debuted in 1985?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"Jim Diamond's first solo album, released in 1985, was titled \\\"Double Crossed\\\".\""
+    },
+    {
+        "query_id": "5ac1a3fa5542991316484b7d",
+        "question": "Although a dependent territory remains politically outside of the controlling state's integral area, what else can it contain?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "\"A dependent territory can contain a degree of autonomy, self-governance, or even a high level of autonomy, while still being under the jurisdiction of the controlling state. This means that the dependent territory may have its own government, laws, and institutions, but the controlling state still retains ultimate authority and responsibility for the territory.\""
+    },
+    {
+        "query_id": "3710929627115646080",
+        "question": "who won the national championship in volleyball 2017",
+        "best_model": "\"ZeroShot_response\"",
+        "best_answer": "According to the NCAA (National Collegiate Athletic Association) website, the University of Nebraska won the 2017 NCAA Division I Women's Volleyball Championship."
+    },
+    {
+        "query_id": "4313270809530812562",
+        "question": "what does sip stand for in the ngn / ims context",
+        "best_model": "vision_1_0_top_100",
+        "best_answer": "\"SIP stands for Session Initiation Protocol, a protocol used in Next Generation Networks (NGN) and IP Multimedia Subsystem (IMS) for controlling multimedia communication sessions.\""
+    },
+    {
+        "query_id": "-237144182679384676",
+        "question": "where was harry potter and the deathly hallows part 1 filmed",
+        "best_model": "ZeroShot_response.json",
+        "best_answer": "The best_answer is:\n\n\"The filming locations for \\\"Harry Potter and the Deathly Hallows – Part 1\\\" (2010) were spread across several countries. Here are some of the notable locations:\n\n1. **London, England**: Many scenes were filmed on location in London, including:\n* King's Cross Station (Platform 9 3/4)\n* The British Museum (exterior shots)\n* The London Eye (seen in the background)\n* The streets of London (e.g., Covent Garden, Leicester Square)\n2. **Warner Bros. Studios, Leavesden, England**: The majority of the film's interior scenes were shot at the Warner Bros. Studios in Leavesden, Hertfordshire, England. This is where the sets for Hogwarts, Diagon Alley, and other locations were built.\n3. **Gloucestershire, England**: The forest scenes where Harry, Ron, and Hermione are on the run were filmed in the Forest of Dean, Gloucestershire.\n4. **Switzerland**: The scenes at the Hogwarts Express were filmed in the Swiss Alps, specifically in the cantons of Grisons and Ticino.\n5. **Scotland**: Some scenes were filmed in Scotland, including:\n* The Cairngorms National Park (exterior shots of the forest)\n* The village of Glencoe (exterior shots of the village)\n6. **Other locations**: Additional scenes were filmed in:\n* **Buckinghamshire, England**: The Chiltern Hills were used as the backdrop for some scenes.\n* **Wales, UK**: The Brecon Beacons National Park was used as a filming location for some scenes.\n* **France**: Some scenes were filmed in the French town of Annecy, which was used as the location for the village of Roubaix.\n\nThese are just a few of the many locations where \\\"Harry Potter and the Deathly Hallows – Part 1\\\" was filmed.\""
+    },
+    {
+        "query_id": "8o2ajp",
+        "question": "How does Overtime work? How is it profitable for a company to pay it and why is it offered?",
+        "best_model": "open_source_1_0_top_100_response",
+        "best_answer": "Overtime is typically paid at a higher rate than regular hours to incentivize employees to work extra hours, allowing companies to meet peak demands or complete projects efficiently. It is profitable for companies to pay overtime as it can increase productivity and revenue, while also demonstrating a commitment to employee well-being and job satisfaction."
+    },
+    {
+        "query_id": "855bxe",
+        "question": "Why do “selfie cameras” flip a picture, but the rear cameras don’t?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "The best_answer is:\n\n\"The reason \\\"selfie cameras\\\" (front-facing cameras) often flip a picture, while rear cameras don't, is due to the way our brains process visual information. When we take a selfie, we're looking directly at the camera, which means we're seeing ourselves from the perspective of the camera. To make the image more natural and intuitive, the camera software flips the image horizontally, so that our left side appears on the left side of the screen, just like we see ourselves in a mirror. This is called \\\"mirroring\\\" or \\\"flipping\\\" the image. On the other hand, when we take a photo with the rear camera, we're not looking directly at the camera. We're usually looking at the scene in front of us, and the camera is capturing the image from a different perspective. Since we're not looking at the camera, there's no need to flip the image, and it's displayed in its original orientation. Additionally, many smartphones and cameras have a feature called \\\"orientation\\\" or \\\"image orientation\\\" that allows the camera to detect the direction the device is held and adjust the image accordingly. This means that when you take a photo with the rear camera, the camera software can automatically rotate the image to match the orientation of the device, so that the image is displayed correctly. So, to summarize, the selfie camera flips the image because we're looking directly at it, while the rear camera doesn't flip the image because we're not looking directly at it, and the camera software can automatically adjust the orientation of the image to match the device's orientation.\""
+    },
+    {
+        "query_id": "1656745334095178455",
+        "question": "the basic steps of rational decision making include defining goals and",
+        "best_model": "ZeroShot",
+        "best_answer": "The best_answer is:\n\n\"The basic steps of rational decision making include:\n\n1. Defining goals and objectives\n2. Identifying alternatives\n3. Evaluating alternatives\n4. Choosing an alternative\n5. Implementing the chosen alternative\n6. Monitoring and evaluating the outcome\n\nSo, the correct answer is: defining goals and objectives.\""
+    },
+    {
+        "query_id": "5a8810485542997e5c09a590",
+        "question": "The Airport located next to the A13 handled how many passengers in 2016 ?",
+        "best_model": "open_source_1_0_top_100_response",
+        "best_answer": "\"The Rotterdam The Hague Airport, located next to the A13, handled approximately 2.5 million passengers in 2016.\""
+    },
+    {
+        "query_id": "5ab44ab25542991779162c58",
+        "question": "What are both Camel Up and Outrage!?",
+        "best_model": "\"ZeroShot_response\"",
+        "best_answer": "Camel Up and Outrage! are both party games! \n\nCamel Up is a popular party game where players bet on the movement of camels racing around a track, trying to predict which camel will reach the finish line first. \n\nOutrage! is a party game where players take on the role of a journalist trying to uncover the truth behind a series of ridiculous news stories. Players ask questions, gather clues, and try to figure out what's real and what's fake. \n\nBoth games are known for their humor, social interaction, and fast-paced gameplay, making them great options for groups of friends or family looking for a fun and lighthearted gaming experience!"
+    },
+    {
+        "query_id": "-2513471321816151630",
+        "question": "when did the anti smacking law come in nz",
+        "best_model": "vision_1_0_top_100_response",
+        "best_answer": "\"The anti-smacking law in New Zealand, also known as the Crimes (Substituted Section 59) Amendment Act 2007, came into effect on April 28, 2007.\""
+    },
+    {
+        "query_id": "3413977600585971868",
+        "question": "who played john connor in the original terminator",
+        "best_model": "tf-idf_1_0_top_100_modified_response",
+        "best_answer": "Michael Edwards (briefly as the older Connor) and Edward Furlong (as a teenager) played the role of John Connor in the 1984 film \"The Terminator\"."
+    },
+    {
+        "query_id": "-7056118700490851801",
+        "question": "when does the implantation of the embryo occur",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "The best_answer is:\n\n\"The implantation of the embryo occurs around 6-10 days after fertilization, which is typically around 6-8 days after ovulation. This is when the fertilized egg, now called a blastocyst, attaches to the lining of the uterus (endometrium) and begins to receive vital nutrients and oxygen from the mother's bloodstream. More specifically, the implantation process typically occurs in the following stages: 1. Blastocyst formation: 5-6 days after fertilization, the fertilized egg undergoes several cell divisions and forms a blastocyst, which consists of an inner cell mass (embryoblast) and an outer layer of cells (trophectoderm). 2. Apposition: 6-7 days after fertilization, the blastocyst begins to move towards the uterine cavity and comes into contact with the uterine lining (endometrium). 3. Adhesion: 7-8 days after fertilization, the blastocyst begins to adhere to the uterine lining through the release of enzymes and other molecules that help it stick. 4. Invasion: 8-10 days after fertilization, the blastocyst begins to invade the uterine lining, forming a connection with the maternal blood vessels and establishing a supply of oxygen and nutrients. Overall, the implantation process is a critical step in the development of a healthy pregnancy, and any disruptions to this process can lead to infertility or miscarriage.\""
+    },
+    {
+        "query_id": "5ade858a55429975fa854eea",
+        "question": "What sport is played by both Justin Gimelstob and Angelique Kerber?",
+        "best_model": "\"ZeroShot_response\"",
+        "best_answer": "\"A fun question! \nAfter a quick search, I found that both Justin Gimelstob and Angelique Kerber are professional tennis players!\""
+    },
+    {
+        "query_id": "6140600198399820010",
+        "question": "where does porter fly out of in toronto",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"Porter Airlines operates out of Billy Bishop Toronto City Airport on the Toronto Islands in Toronto, Ontario, Canada.\""
+    },
+    {
+        "query_id": "22bo7h",
+        "question": "Why do people get so upset that an un-vaccinated child will \"infect\" their child ? If your child is vaccinated, doesn't that mean they cannot contact the illness ?",
+        "best_model": "ZeroShot_response.json",
+        "best_answer": "While vaccination provides excellent protection against many diseases, it's not a 100% guarantee that a vaccinated child won't contract the illness. Here's why:\n\n1. **Vaccines are not 100% effective**: While vaccines are highly effective, they're not foolproof. The effectiveness of a vaccine can vary depending on factors like the type of vaccine, the individual's immune system, and the presence of other health conditions. For example, the measles, mumps, and rubella (MMR) vaccine is about 93% effective in preventing measles, but it's not 100%.\n\n2. **Vaccinated individuals can still carry and transmit the disease**: Even if a vaccinated child is not severely ill, they can still carry and transmit the disease to others. This is known as \"viral shedding.\" For example, a vaccinated child with a mild case of measles can still spread the virus to others, including their unvaccinated peers.\n\n3. **Vaccinated individuals can still get a mild or asymptomatic infection**: In some cases, a vaccinated child may still contract the disease, but experience only mild symptoms or no symptoms at all. This is known as an \"asymptomatic infection.\" In these cases, the child may not even know they're infected, but they can still transmit the disease to others.\n\n4. **Vaccinated individuals can still be a source of infection for vulnerable populations**: Even if a vaccinated child is not severely ill, they can still be a source of infection for vulnerable populations, such as:\n\n* Young children who are too young to be vaccinated (e.g., infants under 6 months old).\n* People with weakened immune systems, such as those with cancer, HIV/AIDS, or taking immunosuppressive therapy.\n* Pregnant women, who may be at higher risk of severe illness if they contract certain diseases.\n\nGiven these factors, it's understandable that parents of unvaccinated children may be concerned about the potential risks of their child contracting a vaccine-preventable disease from a vaccinated child. While the risk is generally low, it's not zero, and parents may take precautions to minimize the risk of transmission.\n\nIt's also important to note that vaccination is not just about protecting the individual who receives the vaccine. It's also about protecting the community by reducing the spread of disease and preventing outbreaks."
+    },
+    {
+        "query_id": "70owzx",
+        "question": "how is hd tv easily sent over the air with no loading/buffering but streaming hd video online takes a good internet connection and high bandwidth?",
+        "best_model": "ZeroShot_response.json",
+        "best_answer": "There are several reasons why HD TV can be easily sent over the air with no loading or buffering, but streaming HD video online requires a good internet connection and high bandwidth:\n\n1. **Broadcasting vs. Streaming**: Over-the-air broadcasting uses a one-to-many approach, where a single broadcast signal is transmitted to a large number of receivers. This allows for a fixed, predictable amount of data to be transmitted, which can be easily handled by the broadcast infrastructure. In contrast, online streaming uses a many-to-one approach, where multiple users request content from a single server, which can lead to variable and unpredictable data demands.\n\n2. **Fixed vs. Variable Bitrate**: Broadcast TV signals typically use a fixed bitrate, which means the amount of data transmitted per second is constant. This allows for efficient transmission and reception of the signal. In contrast, online streaming often uses variable bitrate (VBR) encoding, which adjusts the bitrate based on the complexity of the video content. This can lead to variable data transmission rates, which can cause buffering or loading issues.\n\n3. **Error Correction and Forward Error Correction (FEC)**: Broadcast TV signals use error correction and FEC to ensure that the signal is received correctly, even in the presence of noise or interference. Online streaming often relies on client-side error correction, which can be less effective and may require more bandwidth to compensate for errors.\n\n4. **Latency and Buffering**: Broadcast TV signals are transmitted in real-time, with minimal latency. Online streaming often requires buffering to ensure a smooth playback experience, which can introduce latency and affect the overall quality of the video.\n\n5. **Internet Infrastructure**: The internet infrastructure is designed to handle a large number of concurrent connections, but it's not optimized for high-bandwidth, low-latency applications like HD video streaming. The quality of the internet connection, including factors like upload and download speeds, packet loss, and jitter, can significantly impact the streaming experience.\n\n6. **Content Compression**: Broadcast TV signals are often compressed using lossy compression algorithms like MPEG-2, which can reduce the bitrate while maintaining acceptable video quality. Online streaming often uses more advanced compression algorithms like H.264 or H.265, which can provide better compression ratios but may require more bandwidth to achieve the same quality.\n\n7. **Server-Side Processing**: Online streaming often requires server-side processing to handle tasks like content encoding, transcoding, and adaptive bitrate switching. This can introduce additional latency and affect the overall quality of the video.\n\nIn summary, the differences between broadcast TV and online streaming are due to the fundamental differences in the way they transmit and receive data. While broadcast TV uses a one-to-many approach with fixed bitrate and error correction, online streaming uses a many-to-one approach with variable bitrate and client-side error correction."
+    },
+    {
+        "query_id": "5a8d02cc554299441c6b9fb6",
+        "question": "John MacGregor, Baron MacGregor of Pulham Market was educated at the University of St Andrews and another university established by what monach?",
+        "best_model": "WikiAgent",
+        "best_answer": "The University of Aberdeen was founded in 1495 by Bishop William Elphinstone, a Scottish bishop and diplomat, who was a monk of the Order of St. Augustine. John MacGregor, Baron MacGregor of Pulham Market, was a Scottish politician and lawyer who attended the University of Aberdeen in the 18th century."
+    },
+    {
+        "query_id": "3ph64q",
+        "question": "Why are emotions so amplified right before bed?",
+        "best_model": "ZeroShot_response.json",
+        "best_answer": "\"The phenomenon you're referring to is commonly known as the \\\"pre-sleep emotional amplification\\\" or \\\"sleep-time emotional intensification. There are several theories that attempt to explain why emotions can become more intense and overwhelming just before bedtime:...\""
+    },
+    {
+        "query_id": "-6705663232244508339",
+        "question": "who's flag is red white and green",
+        "best_model": "WikiAgent",
+        "best_answer": "\"There are several countries that have a flag with the colors red, white, and green. Here are some examples:\\n\\n1. Ireland (Tricolor)\\n2. Pakistan\\n3. Saudi Arabia\\n4. Iran\\n5. Iraq\\n6. Yemen\\n7. Palestine\\n8. Syria\\n9. Sudan\\n10. Libya\\n11. Tunisia\\n12. Algeria\\n13. Morocco\\n14. Mauritania\\n15. Mali\\n16. Niger\\n17. Chad\\n18. Central African Republic\\n19. Democratic Republic of the Congo\\n20. Republic of the Congo\\n\\nNote that some of these countries may have slightly different shades or proportions of the colors, but they all feature red, white, and green as part of their national flag design.\""
+    },
+    {
+        "query_id": "4145652099727036103",
+        "question": "when was the problem of cfc's discovered",
+        "best_model": "ZeroShot",
+        "best_answer": "The best_answer is:\n\n\"The problem of chlorofluorocarbons (CFCs) was discovered in the 1970s. At that time, scientists were studying the ozone layer, which is a layer of the Earth's atmosphere that contains a high concentration of ozone (O3). Ozone is created when ultraviolet (UV) radiation from the sun breaks down oxygen molecules (O2) into individual oxygen atoms, which then combine with other oxygen molecules to form ozone. In the 1970s, scientists began to notice that the ozone layer was thinning at high altitudes, particularly over Antarctica. This was a concern because the ozone layer plays a crucial role in protecting the Earth from harmful UV radiation. In 1974, a team of scientists led by Joe Farman, a British researcher, published a paper in the journal Nature that reported a significant decline in ozone levels over Antarctica. This discovery sparked a global concern about the health of the ozone layer and the potential risks to human health and the environment. Further research revealed that the cause of the ozone depletion was the release of CFCs, which were widely used as refrigerants, propellants, and solvents. CFCs were found to be breaking down in the stratosphere, releasing chlorine atoms that reacted with ozone molecules, causing them to break down and deplete. The discovery of the ozone hole and the role of CFCs in its formation led to a global effort to phase out the use of CFCs and other ozone-depleting substances. The Montreal Protocol, an international treaty signed in 1987, aimed to reduce the production and consumption of CFCs and other ozone-depleting substances, and to phase them out completely by the year 2000.\""
+    },
+    {
+        "query_id": "5ae34b275542992e3233c371",
+        "question": "Which award David Hersey had got for Equus a play by Peter Shaffer ?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"David Hersey won the Drama Desk Award for Outstanding Lighting Design for \\\"Equus\\\".\""
+    },
+    {
+        "query_id": "5129rq",
+        "question": "Would a centralized currency throughout the world work well, if at all?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "\"A fascinating question! A centralized currency throughout the world, also known as a global currency, has been debated among economists, policymakers, and experts for decades. While it's an intriguing idea, there are valid arguments for and against its feasibility. Here's a balanced analysis:\""
+    },
+    {
+        "query_id": "4vngug",
+        "question": "In movies that involve an interrogation scene, why does the cop put his gun and badge on the table?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "The classic \"cop puts gun and badge on the table\" move!\n\nIn movies, this trope is often used to convey a sense of vulnerability and trustworthiness on the part of the interrogating officer. By placing their gun and badge on the table, the cop is, in a way, \"laying down their arms\" and signaling that they're not there to harm or intimidate the suspect. This can be a way to establish a sense of rapport and build trust with the suspect, making them more likely to open up and cooperate during the interrogation.\n\nAdditionally, this gesture can also be seen as a way to demonstrate the officer's professionalism and commitment to fairness. By putting their gun and badge on the table, the cop is showing that they're not there to use force or exert their authority, but rather to gather information and solve the case.\n\nOf course, it's worth noting that this trope is often used for dramatic effect in movies, and may not reflect real-life police procedures. In reality, police officers are trained to maintain a professional distance and may not necessarily remove their gun and badge during an interrogation."
+    },
+    {
+        "query_id": "-2471128667829068882",
+        "question": "how many dominoes do you need for mexican train",
+        "best_model": "\"ZeroShot_response\"",
+        "best_answer": "A fun question!\nFor Mexican Train, you'll need a set of dominoes that includes at least 91 dominoes. This is because the game requires a minimum of 91 dominoes to play with 2-4 players.\nHere's a breakdown of the number of dominoes you'll need for each number of players:\n* 2 players: 91 dominoes\n* 3 players: 93 dominoes\n* 4 players: 95 dominoes\nKeep in mind that these are the minimum numbers of dominoes required to play the game. You can always add more dominoes to the set if you want to play with more players or to make the game more challenging.\nIt's worth noting that the standard set of dominoes used for Mexican Train is a double-six set, which includes 28 dominoes with numbers ranging from 0 to 6 on each half. This set is a good starting point, but you can always add more dominoes to the set to make the game more interesting."
+    },
+    {
+        "query_id": "-8273418381527082543",
+        "question": "when did television come out in the us",
+        "best_model": "ZeroShot_response",
+        "best_answer": "The first public demonstration of television in the United States took place on January 13, 1926, when John Logie Baird, a Scottish engineer, transmitted live, monochrome (black and white) images to a small audience at the American Museum of Natural History in New York City."
+    },
+    {
+        "query_id": "4094570070863238215",
+        "question": "when does the second part of vikings season 4 start",
+        "best_model": "\"ZeroShot_response\"",
+        "best_answer": "\"The second part of Vikings Season 4, also known as Vikings Season 4B, premiered on November 30, 2016, on History Channel.\""
+    },
+    {
+        "query_id": "5a8fa2955542992414482b11",
+        "question": "Which film was directed by Wayne Coles-Janess, Tender Fictions or Bougainville – Our Island Our Fight?",
+        "best_model": "LlamaAgent",
+        "best_answer": "\"Wayne Coles-Janess directed both Tender Fictions and Bougainville – Our Island Our Fight\""
+    },
+    {
+        "query_id": "77nkwm",
+        "question": "Why do you not feel like you're going fast while in an airplane, when in fact you're traveling 600+ MPH?",
+        "best_model": "ZeroShot_response.json",
+        "best_answer": "There are several reasons why you don't feel like you're going fast while in an airplane, despite traveling at speeds of over 600 miles per hour (mph):\n\n1. **Lack of visual cues**: When you're on the ground, you're constantly bombarded with visual cues that help you gauge your speed. You see trees, buildings, and other objects whizzing by, which gives you a sense of velocity. In an airplane, you're typically looking out the window at a vast expanse of sky or clouds, which doesn't provide the same visual cues.\n\n2. **No sense of wind resistance**: When you're driving a car or riding a bike, you feel the wind resistance as you move. This resistance helps you sense your speed. In an airplane, the air is moving around you, but you're not feeling the wind resistance in the same way. The plane's speed is absorbed by the airframe and engines, so you don't feel the same sensation of movement.\n\n3. **Cabin pressure and air density**: The air pressure inside an airplane is similar to the air pressure at sea level, which helps to reduce the sensation of speed. Additionally, the air density at cruising altitudes is lower than at sea level, which means there's less air resistance to feel.\n\n4. **G-force compensation**: Airplanes are designed to compensate for the effects of acceleration and deceleration. The seats, floor, and walls of the cabin are designed to provide a sense of stability and comfort, which helps to reduce the sensation of speed.\n\n5. **Psychological factors**: Our brains are wired to respond to visual and sensory cues, and when we're in an airplane, we're not getting the same cues that we would on the ground. This can lead to a psychological phenomenon called \"motion sickness,\" where our brains struggle to reconcile the conflicting sensory information. As a result, we may not feel like we're moving as fast as we actually are.\n\n6. **The \"speed illusion\"**: Finally, there's a phenomenon known as the \"speed illusion,\" where our brains tend to underestimate the speed of movement when we're in a confined space, like an airplane cabin. This is because our brains are more focused on the internal environment (the cabin) than the external environment (the air outside).\n\nThese factors combined create the illusion that you're not moving as fast as you actually are, even though you're traveling at incredible speeds."
+    },
+    {
+        "query_id": "1s2eiv",
+        "question": "If we were to dig a straight hole from one side of the Earth, through the core and everything, to the other side, what would happen to our planet?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "What an intriguing question! \n\nIf we were to dig a straight hole from one side of the Earth to the other, passing through the core and everything in between, it would have some significant effects on our planet. Here's a breakdown of what would likely happen:\n\n1. **Initial collapse**: As we start digging, the Earth's crust would initially collapse into the hole, creating a massive trench. The weight of the overlying rocks and soil would cause the trench to deepen rapidly.\n2. **Mantle flow**: As we approach the Earth's mantle, the hot, viscous rock would start to flow into the hole, filling it with molten rock. This would create a massive, slow-moving lava flow that would eventually solidify, forming a new, molten rock layer.\n3. **Core disruption**: When we reach the Earth's core, the intense heat and pressure would cause the liquid iron-nickel alloy to flow into the hole, potentially creating a massive, global-scale volcanic eruption. The core's magnetic field would also be disrupted, leading to a temporary loss of the Earth's magnetic field.\n4. **Planetary instability**: The sudden removal of a significant portion of the Earth's mass would cause the planet's rotation and orbit to become unstable. The Earth's axis might wobble or even shift, leading to extreme climate fluctuations and potentially even a new ice age.\n5. **Atmospheric loss**: As the hole reaches the surface on the other side of the planet, the atmospheric pressure would drop significantly, causing a massive loss of atmospheric gases, including oxygen, nitrogen, and carbon dioxide. This would lead to a significant reduction in the planet's atmospheric pressure and potentially even a loss of habitability.\n6. **Global earthquakes and tsunamis**: The sudden removal of a massive amount of rock and the disruption of the Earth's mantle and core would trigger massive earthquakes and tsunamis around the world, potentially causing widespread destruction and loss of life.\n7. **Long-term effects**: In the aftermath, the Earth's surface would continue to deform and adjust to the new gravitational and magnetic fields. The planet's rotation and orbit would stabilize over time, but the effects on the climate, geology, and ecosystems would be profound and long-lasting.\n\nIn conclusion, digging a straight hole from one side of the Earth to the other would have catastrophic consequences for our planet. The effects would be felt globally, and the planet would likely undergo significant changes in its rotation, orbit, climate, and geology."
+    },
+    {
+        "query_id": "-2953491529624297458",
+        "question": "when was the last time kentucky won ncaa",
+        "best_model": "ZeroShot_response",
+        "best_answer": "The University of Kentucky men's basketball team has won eight NCAA championships, with the most recent one being in 2012. They defeated Kansas 67-59 in the championship game on April 2, 2012, at the Mercedes-Benz Superdome in New Orleans, Louisiana. So, to answer your question, the last time Kentucky won an NCAA championship was in 2012."
+    },
+    {
+        "query_id": "2es05y",
+        "question": "What is it like to have a sense of smell?",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "\"What a fascinating question! Having a sense of smell is a rich, multifaceted experience that combines emotions, memories, sensations, and intuition. It's a way of connecting with the world, and with ourselves, that is both subtle and profound.\""
+    },
+    {
+        "query_id": "7768961778329601486",
+        "question": "hart of dixie season 4 how many episodes",
+        "best_model": "ZeroShot_response",
+        "best_answer": "According to various sources, including IMDb and Wikipedia, the fourth and final season of the TV show \"Hart of Dixie\" consisted of 10 episodes, which aired from September 23, 2014, to March 27, 2015."
+    },
+    {
+        "query_id": "1kiwfx",
+        "question": "In Trading Places (1983, Akroyd/Murphy) how does the scheme at the end of the movie work? Why would buying a lot of OJ at a high price ruin the Duke Brothers?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "The scheme is as follows:\n\n1. Louis, who has been fired and framed by the Duke Brothers, uses his knowledge of the commodities market to buy a large quantity of orange juice futures at a high price.\n2. Billy Ray, who has been elevated to a high position at the company, uses his newfound influence to manipulate the market by buying even more orange juice futures, driving the price even higher.\n3. Meanwhile, the Duke Brothers, who have been betting against the orange juice market, are forced to buy back their short positions at the inflated price, incurring significant losses.\n4. As the price of orange juice futures continues to rise, the Duke Brothers are eventually forced to declare bankruptcy, losing their vast fortune.\n\nThe scheme works because the Duke Brothers had been manipulating the market by short-selling orange juice futures, betting that the price would fall. However, Louis and Billy Ray's coordinated effort to buy up the futures drives the price up, causing the Duke Brothers to lose their bets and ultimately their fortune.\n\nThe scheme is a clever and humorous way for the protagonists to exact revenge on their former employers and bring them down."
+    },
+    {
+        "query_id": "5a7cd72055429909bec7683b",
+        "question": "What years was the auto racing series held that was followed on by the 2016 Blancpain GT Series Sprint Cup?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"The auto racing series that was followed on by the 2016 Blancpain GT Series Sprint Cup was the FIA GT1 World Championship, which ceased to exist in 2012.\""
+    },
+    {
+        "query_id": "5a83d7d05542992ef85e237a",
+        "question": "What is the name of the statue whose replica have been created in many landmarks world-wide such as near Pont de Grenelle in Paris?",
+        "best_model": "WikiAgent",
+        "best_answer": "The Statue of Liberty, and its replicas have been created in many landmarks worldwide, including near Pont de Grenelle in Paris."
+    },
+    {
+        "query_id": "1372720036015553168",
+        "question": "who proclaimed 5th october as world’s teachers day",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"The United Nations Educational, Scientific and Cultural Organization (UNESCO) and the International Labour Organization (ILO) proclaimed October 5 as World Teachers' Day in 1994.\""
+    },
+    {
+        "query_id": "-5749344355510160678",
+        "question": "who plays the woodsman in over the garden wall",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"Chris Isaak plays the woodsman in Over the Garden Wall.\""
+    },
+    {
+        "query_id": "3mxbqx",
+        "question": "What happened to the documentary stations (History, Discovery, TLC, Nat Geo) that caused them to focus on reality TV in lieu of documentaries?",
+        "best_model": "ZeroShot_response.json",
+        "best_answer": "The documentary stations you mentioned, such as History, Discovery, TLC, and Nat Geo, did not suddenly abandon documentaries for reality TV. Instead, they evolved their programming strategies over time to adapt to changing viewer habits, technological advancements, and shifting market demands. Here are some key factors that contributed to their shift towards reality TV:\n\n1. **Ratings and audience engagement**: Reality TV shows often attract larger audiences and generate more buzz than documentaries. By incorporating reality TV into their lineups, these networks could increase their ratings and attract a broader audience.\n\n2. **Competition from cable and streaming services**: The rise of cable networks like A&E, Bravo, and E! (which focused on reality TV) and streaming services like Netflix, Hulu, and Amazon Prime (which offered a wide range of content, including reality TV) forced traditional documentary-focused networks to adapt and compete for viewers.\n\n3. **Changes in viewer behavior**: With the proliferation of online video platforms and social media, viewers' consumption habits changed. They began to prefer shorter, more bite-sized content, such as reality TV shows, over longer, more in-depth documentaries.\n\n4. **Increased production costs**: Documentaries often require significant investment in production, editing, and research. Reality TV shows, on the other hand, can be produced more quickly and cheaply, making them a more cost-effective option for networks.\n\n5. **Merchandising and branding opportunities**: Reality TV shows often lend themselves to merchandising and branding opportunities, such as spin-off shows, merchandise, and licensing deals. This added revenue stream became an attractive incentive for networks to prioritize reality TV.\n\n6. **Evolution of documentary formats**: While documentary-style programming didn't disappear, the formats and styles of documentaries evolved. Many documentary-style shows now incorporate elements of reality TV, such as competition, drama, and personal stories, to make them more engaging and appealing to a broader audience.\n\nIn summary, the documentary stations didn't abandon documentaries entirely, but they did adapt their programming strategies to incorporate reality TV and other formats that could attract larger audiences and generate more revenue."
+    },
+    {
+        "query_id": "-7989290674360952350",
+        "question": "what is the meaning of cc and bcc",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "\"In the context of email and messaging, `cc` and `bcc` are abbreviations that stand for:\n\n* `cc`: Carbon Copy. When you include someone's email address in the `cc` field, they receive a copy of the email, but their email address is visible to the other recipients. This is often used to keep others informed about a conversation or to involve them in a discussion.\n* `bcc`: Blind Carbon Copy. When you include someone's email address in the `bcc` field, they receive a copy of the email, but their email address is not visible to the other recipients. This is often used to send a message to someone without revealing their email address to others, such as when sending a private message or notification.\n\nIn other words, `cc` is like sending a copy of the email to someone, while `bcc` is like sending a private message to someone without revealing their involvement to others.\""
+    },
+    {
+        "query_id": "5ab8372255429919ba4e226b",
+        "question": "What band wrote the song \"Blue Letter\" and was inducted into the Rock and Roll Hall of Fame in 1998?",
+        "best_model": "tf-idf_1_0_top_100_response.json",
+        "best_answer": "\"The band that wrote the song \\\"Blue Letter\\\" and was inducted into the Rock and Roll Hall of Fame in 1998 is Spirit.\""
+    },
+    {
+        "query_id": "5ae18b555542997b2ef7d1f7",
+        "question": "How far from Buenos Aires is the birthplace of Ezequiel Lazaro? ",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "Ezequiel Lázaro was born in Córdoba, Argentina, which is approximately 700 km (435 miles) northwest of Buenos Aires."
+    },
+    {
+        "query_id": "5ae0c29c5542993d6555ec46",
+        "question": "What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?",
+        "best_model": "\"LlamaAgent\"",
+        "best_answer": "Herbert Dreilich, a renowned German singer-songwriter and lead vocalist of the influential rock band Ton Steine Scherben."
+    },
+    {
+        "query_id": "5ae25ed15542992decbdccd2",
+        "question": "Both Sorbaria and Goldenrod are a genus of more than 50 flowering plants?",
+        "best_model": "LlamaAgent",
+        "best_answer": "\"Yes, both Sorbaria and Goldenrod are comprised of over 50 species of flowering plants.\""
+    },
+    {
+        "query_id": "5ac0d981554299012d1db646",
+        "question": " Who was the founder of a chain of supermarkets that is now headquartered on Nott Street in Schenectady?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"Joseph E. Grosberg was the founder of Central Markets, a chain of grocery stores that is now known as Price Chopper and is headquartered on Nott Street in Schenectady.\""
+    },
+    {
+        "query_id": "5adce36e5542990d50227d55",
+        "question": "Vivian Pinn taught at which college founded in Massachusetts in 1852?",
+        "best_model": "\"LlamaAgent\"",
+        "best_answer": "Vivian Pinn taught at Wellesley College, a prestigious institution founded in 1852 in Massachusetts."
+    },
+    {
+        "query_id": "5u2qpr",
+        "question": "If illegal immigrants in the United States have constitutional rights, can they also bear arms?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "While illegal immigrants in the United States do have some constitutional rights, such as the right to due process and protection against unreasonable searches and seizures, they do not have the same rights as U.S. citizens."
+    },
+    {
+        "query_id": "5a71446b5542994082a3e72a",
+        "question": "Who signed into law the act made to lower barriers to adoption?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"President Bill Clinton signed into law the Adoption and Safe Families Act of 1997.\""
+    },
+    {
+        "query_id": "4920082918364942541",
+        "question": "who were the major countries involved in the cold war",
+        "best_model": "ZeroShot_response",
+        "best_answer": "The best_answer is:\n\n\"The major countries involved in the Cold War were:\n\n**The United States and its allies:**\n\n1. United States\n2. United Kingdom\n3. Canada\n4. Western European countries (such as France, Germany, Italy, and others)\n5. Australia\n6. Japan\n7. South Korea\n8. Taiwan (Republic of China)\n\n**The Soviet Union and its allies:**\n\n1. Soviet Union (USSR)\n2. Eastern European countries (such as Poland, Czechoslovakia, East Germany, Hungary, Romania, and Bulgaria)\n3. China (People's Republic of China)\n4. North Korea\n5. Cuba\n6. Vietnam (North Vietnam)\n7. Afghanistan\n8. Mongolia\n\nThese two blocs, often referred to as the \\\"East\\\" and the \\\"West,\\\" were divided by ideological differences, with the United States and its allies representing democracy, capitalism, and individual freedom, while the Soviet Union and its allies represented communism, socialism, and collectivism. The Cold War was characterized by a series of proxy wars, espionage, propaganda, and economic competition between the two blocs, without direct military conflict between the two superpowers.\""
+    },
+    {
+        "query_id": "5ab4314955429942dd415ecd",
+        "question": "Profile Lake is located at the foot of a mountain that is how many feet tall?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"Cannon Mountain, which is located above Profile Lake, is approximately 4,100 feet (1,250 meters) tall.\""
+    },
+    {
+        "query_id": "3124572532765125550",
+        "question": "who did the mavericks beat in the finals",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "\"The Dallas Mavericks defeated the Miami Heat in the 2011 NBA Finals.\""
+    },
+    {
+        "query_id": "motdk",
+        "question": "Why does the feeling of 'love' quite literally feel so heavy in your chest?",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "The sensation of feeling \"love\" can be so heavy in your chest because it's as if Cupid's arrow has struck your heart, causing a physical sensation of being hit or struck, which is often described as a heavy or weighty feeling in the chest."
+    },
+    {
+        "query_id": "5ac26b7f55429951e9e685ae",
+        "question": "who influenced the electronic dance music who  made  Scotch Hausen album",
+        "best_model": "\"WikiAgent\"",
+        "best_answer": "\"The Scotch Hausen album is a collaborative album between Four Tet (Kieran Hebden) and Caribou (Dan Snaith), released in 2021. In terms of electronic dance music (EDM) influences, the artists have mentioned the following:\""
+    },
+    {
+        "query_id": "-9138327189311045968",
+        "question": "who is responsible for establishing local licensing forum",
+        "best_model": "WikiAgent",
+        "best_answer": "According to the Licensing Act 2003, the local authority (such as a district council or unitary authority) is responsible for establishing a Local Licensing Forum (LLF) in their area. The LLF is a statutory body that provides a forum for local authorities, licensing authorities, and other stakeholders to discuss and resolve licensing issues."
+    },
+    {
+        "query_id": "5ab94cca554299753720f7dd",
+        "question": "Angelspit toured the United States with an American electronic music duo from Orlando, Florida, that formed in what year?",
+        "best_model": "\"LlamaAgent\"",
+        "best_answer": "\"The Birthday Massacre, formed in 1999, is the American electronic music duo from Orlando, Florida that Angelspit toured with in the United States.\""
+    },
+    {
+        "query_id": "4jhnli",
+        "question": "How can we know that we are awake ?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "\"We can rely on a combination of introspection, external validation, cognitive biases, and neuroscientific explanations to infer that we are indeed awake.\""
+    },
+    {
+        "query_id": "2884966474182044344",
+        "question": "who won the first season of america's got talent",
+        "best_model": "vision",
+        "best_answer": "\"Bianca Ryan won the first season of America's Got Talent in 2006.\""
+    },
+    {
+        "query_id": "1kfbfm",
+        "question": "What exactly is the church of Scientology and why is there such controversy around it?",
+        "best_model": "WikiAgent",
+        "best_answer": "\"The Church of Scientology is a religious organization founded in 1954 by L. Ron Hubbard, which has been embroiled in controversy due to its stance on psychiatry, legitimacy as a religion, and allegations of mistreatment of members and predatory financial practices.\""
+    },
+    {
+        "query_id": "1fju1o",
+        "question": "How is it possible for Internet searches to get results so quick?",
+        "best_model": "\"ZeroShot_response\"",
+        "best_answer": "\"The widespread use of high-speed broadband connections and the vast network of servers and data centers around the world enable quick results for Internet searches.\""
+    },
+    {
+        "query_id": "3r3kj5",
+        "question": "How exactly did the older generations have it easier than us?",
+        "best_model": "ZeroShot_response",
+        "best_answer": "The age-old debate! While it's true that every generation has its unique challenges, there are several ways in which older generations might have had it easier than us. Here are a few examples:\n\n1. **Lower expectations**: In the past, people often had lower expectations for their careers, education, and personal lives. They might have been content with a stable job, a loving family, and a comfortable home, whereas today's generations often have higher aspirations and expectations.\n\n2. **Less debt**: Many older generations didn't have the same level of debt that we do today. They might not have had student loans, credit card debt, or mortgages as large as ours. This reduced financial burden allowed them to focus on other aspects of their lives.\n\n3. **More job security**: In the past, jobs were often more secure, and employees had more benefits, such as pensions and job security. This reduced financial stress and allowed people to plan for their futures with more confidence.\n\n4. **Less technology**: While technology has brought many benefits, it can also be overwhelming and stressful. Older generations didn't have to deal with the constant barrage of notifications, social media, and email that we do today.\n\n5. **More community**: In the past, people often lived in closer-knit communities, where neighbors knew each other and looked out for one another. This sense of community and social support can be harder to find in today's more mobile and isolated society.\n\n6. **Fewer choices**: While it might seem like a good thing to have more options, having too many choices can be overwhelming. Older generations often had fewer choices, which might have made decision-making easier and less stressful.\n\n7. **More time for leisure**: With fewer distractions and less technology, older generations often had more time for leisure activities, such as reading, gardening, or spending time with family and friends.\n\n8. **Less pressure to conform**: In the past, people were often more accepting of their roles and identities, and there was less pressure to conform to societal norms. This reduced stress and anxiety that can come with trying to fit in.\n\n9. **More opportunities for social mobility**: While there were certainly social and economic barriers in the past, there were also more opportunities for social mobility, particularly for those who were willing to work hard and take risks.\n\n10. **Less exposure to trauma**: Unfortunately, older generations often lived through times of war, economic depression, and other traumatic events. While these experiences can shape people's perspectives and resilience, they can also be traumatic and stressful.\n\nIt's essential to remember that every generation has its unique challenges, and it's unfair to romanticize the past or assume that older generations had it easier simply because they didn't have the same problems we do today."
+    },
+    {
+        "query_id": "5adfda5255429942ec259b5e",
+        "question": "What county in Minnesota holds a 202 lb slab of greywacke covered in runes?",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "Fillmore County, specifically the Fillmore County Historical Society Museum."
+    },
+    {
+        "query_id": "-3942994642099504699",
+        "question": "who gave a speech to the democratic national convention in 1984",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "The answer is Walter Mondale, the Democratic presidential nominee in 1984. He delivered his acceptance speech as the Democratic nominee for president on July 16, 1984, at the Democratic National Convention in San Francisco, California."
+    },
+    {
+        "query_id": "907238223200158003",
+        "question": "when did first fast and furious come out",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "\"The first Fast and Furious movie, titled \\\"The Fast and the Furious\\\", was released on June 22, 2001.\""
+    },
+    {
+        "query_id": "5a8bd9c95542997f31a41de2",
+        "question": "At which university does the biographer of John Clare teach English Literature?",
+        "best_model": "tf-idf_1_0_top_100_response",
+        "best_answer": "Jonathan Bate, the biographer of John Clare, teaches English Literature at the University of Warwick."
+    },
+    {
+        "query_id": "5ae2120e5542997283cd23ad",
+        "question": "Are Distortion Mirrors and OK Go both considered rock bands?",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "\"No, Distortion Mirrors is not considered a rock band in the classical sense, while OK Go is indeed a rock band.\""
+    },
+    {
+        "query_id": "3rgpee",
+        "question": "What's the reason for the perpetual raising of awareness for breast cancer? Is there some commercial benefit? Does anyone out there really not know about it at this point?",
+        "best_model": "ZeroShot_response.json",
+        "best_answer": "The perpetual raising of awareness for breast cancer is a complex issue with multiple factors contributing to its persistence. While it's true that breast cancer awareness has been a prominent public health campaign for several decades, there are valid reasons why it continues to be a focus of attention. Here are some possible explanations:\n\n1. **Lack of a cure**: Despite significant advances in treatment and research, breast cancer remains a leading cause of cancer deaths worldwide. A cure has not been found, and the disease continues to affect millions of people globally. As a result, ongoing awareness efforts are necessary to promote early detection, treatment, and research.\n\n2. **Stigma and misconceptions**: Unfortunately, breast cancer still carries a stigma, and some people may not discuss their experiences openly due to fear, shame, or embarrassment. Awareness campaigns help to reduce stigma and promote open conversations about breast health.\n\n3. **New cases and deaths**: Breast cancer is a common disease, and new cases are diagnosed every day. In the United States alone, the American Cancer Society estimates that over 250,000 new cases will be diagnosed in 2023. Awareness efforts help to remind people of the importance of regular screenings, self-exams, and early detection.\n\n4. **Advocacy and fundraising**: Breast cancer awareness campaigns often serve as a platform for advocacy and fundraising. Organizations like the Susan G. Komen for the Cure, the American Cancer Society, and the Breast Cancer Research Foundation use awareness efforts to raise funds for research, patient support, and education.\n\n5. **Corporate partnerships and branding**: Many companies partner with breast cancer organizations to promote awareness and fundraising efforts. These partnerships can provide a positive brand image and help companies demonstrate their commitment to social responsibility.\n\n6. **Social media and online presence**: The internet and social media have made it easier for awareness campaigns to reach a wider audience. Breast cancer organizations can now share information, stories, and resources with millions of people worldwide, increasing the visibility and impact of their efforts.\n\n7. **Personal connections and experiences**: Many people have been personally affected by breast cancer, either through a diagnosis themselves or through a loved one. Awareness efforts help to honor the memories of those who have passed away and support those who are currently fighting the disease.\n\nWhile it's true that many people are already aware of breast cancer, there are still several reasons why ongoing awareness efforts are necessary:\n\n* New cases are still being diagnosed, and awareness campaigns help to remind people of the importance of early detection and treatment.\n* Stigma and misconceptions surrounding breast cancer still exist, and awareness efforts help to promote open conversations and reduce stigma.\n* Research is ongoing, and awareness campaigns help to raise funds and promote the importance of continued research and development.\n\nIn summary, the perpetual raising of awareness for breast cancer is a complex issue driven by a combination of factors, including the lack of a cure, stigma and misconceptions, new cases and deaths, advocacy and fundraising, corporate partnerships, social media, and personal connections and experiences."
+    },
+    {
+        "query_id": "5v3xpz",
+        "question": "If I bake a cake today with milk that'll expire tomorrow, will my cake also expire tomorrow or has the expiration been nullified?",
+        "best_model": "\"ZeroShot_response.json\"",
+        "best_answer": "\"In general, a cake made with milk that's near its expiration date will likely have a shorter shelf life than one made with fresh milk. However, it's still possible to enjoy the cake for several days or even weeks, depending on the factors mentioned above.\""
+    },
+    {
+        "query_id": "5ae55d1e55429960a22e02cb",
+        "question": "When was the host of \"British Academy Television Awards 2009\" born? ",
+        "best_model": "\"LlamaAgent\"",
+        "best_answer": "Jonathan Ross, the host of the British Academy Television Awards 2009, was born on November 17, 1963."
+    },
+    {
+        "query_id": "3u6fyw",
+        "question": "What operating system does Microsoft use to make their new Operating Systems?",
+        "best_model": "\"ZeroShot\"",
+        "best_answer": "Microsoft uses a modified version of the Linux kernel, known as NTOSKRNL, as the foundation for their new operating systems, including Windows 10 and Windows 11. This is because Microsoft has been using a Linux-based kernel for their operating systems since Windows NT 3.1, which was released in 1993."
+    }
+]
